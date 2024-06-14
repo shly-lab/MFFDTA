@@ -37,7 +37,7 @@ nohup python train.py 2>save_result/train&
 
 Your data should be in the format .csv, and the column names are: 'smiles', 'target_sequences', 'affinity'.
 
-Generate the drug feature file from the given document using the [AMF.py](http://amf.py/)
+Generate the drug feature file from the given document using the [AMF.py](https://github.com/shly-lab/MFFDTA/blob/main/AMF.py)
 
 Then you can freely tune the hyperparameter for your best performance.
 
