@@ -34,7 +34,7 @@ def seqs2int(target):
     return [VOCAB_PROTEIN[s] for s in target.upper()]
 
 
-'''新加的'''
+
 Molecule = Union[str, Chem.Mol]
 MORGAN_RADIUS = 2
 MORGAN_NUM_BITS = 2048
