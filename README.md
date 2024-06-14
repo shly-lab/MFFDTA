@@ -12,7 +12,7 @@ The development of drug-target affinity (DTA) prediction tasks significantly dri
 
 ## 0. Overview of MFFDTA
 
-![sun1](C:/Users/jingjing/Desktop/重新提交5月21日/0521resubmit/MFFDTA_JBHI/sun1.png)
+![fig1](fig1.png)
 
 Set up the environment:
 
